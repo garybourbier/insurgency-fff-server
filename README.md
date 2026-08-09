@@ -1,4 +1,5 @@
 # [FfF] Frag, Fun et Fairplay — Insurgency 2014 Server
+🇫🇷 Français | [🇬🇧 English](#-english-version)
 
 Serveur Insurgency 2014 dédié — playlist officielle "Combat Soutenu" avec maps et mods workshop.
 
