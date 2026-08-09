@@ -23,9 +23,9 @@ Collection Steam Workshop : https://steamcommunity.com/sharedfiles/filedetails/?
 - `fff_supply_force` — force 18 supply tokens de départ
 - `fff_maprestart` — commande `sm_maprestart` pour redémarrer la map
 
-### Pourquoi sm_maprestart ?
+### Pourquoi map_reconnect ?
 
-Le mod **Dismemberment** (The Armory PvP) nécessite un redémarrage de la map à la connexion des premiers joueurs. Sans ça, les effets de démembrement ne s'initialisent pas correctement pour les joueurs qui rejoignent un serveur vide. La commande `sm_maprestart` permet à un admin de relancer la map en une seconde sans passer par le menu.
+Le mod **Dismemberment** (The Armory PvP) nécessite que les effets de particules soient mis en cache au chargement de la map. Sans ça, le client crash à la première explosion. Le plugin `map_reconnect` redémarre automatiquement la map une fois lors de son premier chargement, forçant le moteur à mettre les effets en cache avant que les joueurs puissent jouer.
 
 ## Déploiement
 ```bash
