@@ -84,3 +84,47 @@ cp cfg/server_local.cfg.example cfg/server_local.cfg
 | micro_t1_m16 | micro_t1_mk18 | nm | sd |
 | ins2_sandstorm | melee | upgrades | optics |
 | sling | muzzle | | |
+
+---
+
+## 🇬🇧 English version
+
+Dedicated Insurgency 2014 server — official "Sustained Combat" playlist with workshop maps and mods.
+
+> Insurgency Custom PvP server with :
+> - 78 custom weapons (The Armory PvP + Dismemberment mod)
+> - 52 custom maps (+ 14 official NWI maps)
+> - Voice mod
+> - Dismemberment mod
+> - Fire Strike
+> - and more
+
+Steam Workshop Collection : https://steamcommunity.com/sharedfiles/filedetails/?id=649274722
+
+### Stack
+- Docker + Steam AppID 222880
+- SourceMod + MetaMod
+- Modified NWI `pvp_sustained` playlist (official + workshop maps, push mode only)
+
+### FfF Plugins
+
+- `fff_playlist_lock` — forces official sv_playlist + blocks auto-rotation when server is empty
+- `fff_supply_force` — forces 18 supply tokens at round start
+- `fff_maprestart` — `sm_maprestart` command to restart the current map
+
+#### Why map_reconnect ?
+
+The **Dismemberment** mod (The Armory PvP) requires particle effects to be cached on map load. Without this, clients crash on the first explosion. The `map_reconnect` plugin automatically restarts the map once on first load, forcing the engine to cache the effects before players can play.
+
+### Deploy
+```bash
+docker-compose up -d
+```
+
+### Config
+
+```bash
+cp cfg/server_local.cfg.example cfg/server_local.cfg
+```
+
+Edit `cfg/server_local.cfg` with your `hostname`, `rcon_password` and `sv_contact`. This file is in `.gitignore` — it will never be committed.
