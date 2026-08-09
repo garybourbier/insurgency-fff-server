@@ -1,0 +1,22 @@
+services:
+  ins-server:
+    build: .
+    container_name: ins-server
+    ports:
+      - "27015:27015/udp"
+      - "27015:27015/tcp"
+      - "27005:27005/udp"
+      - "27020:27020/udp"
+    volumes:
+      - /home/bourbier/ins/game:/home/steam/game
+      - /home/bourbier/ins/config:/home/steam/config
+    restart: always
+    cpu_shares: 4096
+    cpuset: "4,5"
+    ulimits:
+      nofile:
+        soft: 65536
+        hard: 65536
+      stack:
+        soft: 67108864
+        hard: 67108864

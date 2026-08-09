@@ -1,0 +1,20 @@
+﻿-----------------------------------------------------------------------------------------------------------------------
+______                    ______                  _    ______    _            _               _  
+|  ___|                   |  ___|                | |   |  ___|  (_)          | |             | | 
+| |_ _ __ __ _  __ _      | |_ _   _ _ __     ___| |_  | |_ __ _ _ _ __ _ __ | | __ _ _   _  | | 
+|  _| '__/ _` |/ _` |     |  _| | | | '_ \   / _ | __| |  _/ _` | | '__| '_ \| |/ _` | | | | | | 
+| | | | | (_| | (_| |  _  | | | |_| | | | | |  __| |_  | || (_| | | |  | |_) | | (_| | |_| | |_| 
+\_| |_|  \__,_|\__, | ( ) \_|  \__,_|_| |_|  \___|\__| \_| \__,_|_|_|  | .__/|_|\__,_|\__, | (_) 
+                __/ | |/                                               | |             __/ |     
+               |___/                                                   |_|            |___/      
+-----------------------------------------------------------------------------------------------------------------------
+Salut et bienvenue sur le serveur des [FfF] Frag Fun et Fairplay !
+Viens faire le con avec nous sur Teamspeak 3 : 212.83.131.33 ( sans password ) 
+N'oublie pas de venir avec ta petite soeur si elle est bonne !
+You can download our mods collection here: https://steamcommunity.com/sharedfiles/filedetails/?id=649274722
+This server has epic custom weapons and maps! If your Internet connection is slow, please be patient :)
+[MORE THAN 24 PLAYERS - CUSTOM MAP] - [LESS THAN 24 PLAYERS - OFFICIAL MAP]
+Airstrike added ! LEADER can call artillery strike, simply aim properly to the ground and say !fs
+Do you want more gore ? type this command on the console for more blood and dismember !
+cl_ragdoll_dismember_limb_limit 4
+cl_ragdoll_dismember_bullets_fraction 1 

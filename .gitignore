@@ -1,0 +1,5 @@
+cfg/banned_ip.cfg
+cfg/banned_user.cfg
+cfg/ban_list_details.txt
+cfg/servervoiceban.cfg
+*.bak

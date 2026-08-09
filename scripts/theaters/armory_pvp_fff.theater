@@ -1,0 +1,10 @@
+// FfF theater override - herite de armory_pvp_default, force 18 supply tokens
+"Theater"
+{
+	"#base"	"armory_pvp_default.theater"
+
+	"forced_cvars"
+	{
+		"mp_supply_token_base"	"18"
+	}
+}

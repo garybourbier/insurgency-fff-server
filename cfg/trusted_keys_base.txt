@@ -1,0 +1,20 @@
+"trusted_key_list"
+{
+
+	//
+	// This file lists public keys that are trusted by the server.
+	// It should usually only contain official Valve public keys,
+	// so don't modify it.
+	//
+	// See trusted_key_example.txt for how you can add keys issues
+	// by third parties, in order to add their content to the list
+	// of trusted content.
+	//
+
+	// Official NWI content.  Key generated 2014/02/04
+	public_key
+	{
+		type "rsa"
+		rsa_public_key "30819D300D06092A864886F70D010101050003818B0030818702818100BD0981D888738C15EB34837BE9A94A8539800325818758EE2E93C336F611683C18906BFA56AFCBEE18BEAAD4A04E8D32FFDED2A4C9EE62FA0724D6E71FA3D05959117BD048E2D9BA8607A9BC59210F7ACF9BE0722EF0C74845DEF6012E04B57457F766571C6C046C93B0C0437605ABFA030549B085093A35FD806B65458BE8BB020111"
+	}
+}
