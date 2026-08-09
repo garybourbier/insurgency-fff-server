@@ -1,0 +1,16 @@
+// ============================================================
+// Fichier de configuration locale — NE PAS COMMITER (gitignore)
+// Renommer ce fichier en server_local.cfg et remplir les valeurs
+// ============================================================
+
+// Nom du serveur affiché dans la liste
+hostname "Mon Serveur Insurgency"
+
+// Mot de passe RCON (laisser vide pour désactiver)
+rcon_password "changeme"
+
+// Email de l'admin
+sv_contact ""
+
+// Mot de passe serveur (laisser vide = serveur public)
+sv_password ""
