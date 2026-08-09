@@ -1,0 +1,4 @@
+L 05/11/2025 - 15:03:51: SourceMod error session started
+L 05/11/2025 - 15:03:51: Info (map "tell") (file "/home/bourbier/ins/serverfiles/insurgency/addons/sourcemod/logs/errors_20250511.log")
+L 05/11/2025 - 15:03:51: [SM] Unable to load plugin "knifepoints.smx": Required extension "cstrike" file("games/game.cstrike.ext") not running
+L 05/19/2025 - 14:10:23: Error log file session closed.

@@ -1,0 +1,137 @@
+L 08/08/2026 - 13:49:09: SourceMod log file session started (file "/home/steam/game/insurgency/addons/sourcemod/logs/L20260808.log") (Version "1.10.0.6462")
+L 08/08/2026 - 13:49:09: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 08/08/2026 - 14:09:49: [KnifeKillMessages.smx] [Knife Notification] - Loaded
+L 08/08/2026 - 14:12:05: [basecommands.smx] "[FfF]G4RY BoURB!3R<3><STEAM_1:0:15147785><>" changed map to "baghdad_b5"
+L 08/08/2026 - 14:12:08: [SM] Changed map to "baghdad_b5"
+L 08/08/2026 - 14:12:32: -------- Mapchange to baghdad_b5 --------
+L 08/08/2026 - 14:12:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_radial_vo_enemies") (value "1500")
+L 08/08/2026 - 14:12:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_radial_viewcone_enemy") (value "15")
+L 08/08/2026 - 14:12:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "ins_deadcam_modes") (value "1")
+L 08/08/2026 - 14:12:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_radial_vo_enemies") (value "1500")
+L 08/08/2026 - 14:12:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_radial_viewcone_enemy") (value "15")
+L 08/08/2026 - 14:12:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "ins_deadcam_modes") (value "1")
+L 08/08/2026 - 14:12:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_theater_override") (value "armory_pvp_default")
+L 08/08/2026 - 14:13:40: -------- Mapchange to embassy --------
+L 08/08/2026 - 14:13:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_radial_vo_enemies") (value "1500")
+L 08/08/2026 - 14:13:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_radial_viewcone_enemy") (value "15")
+L 08/08/2026 - 14:13:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "ins_deadcam_modes") (value "1")
+L 08/08/2026 - 14:13:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_radial_vo_enemies") (value "1500")
+L 08/08/2026 - 14:13:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_radial_viewcone_enemy") (value "15")
+L 08/08/2026 - 14:13:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "ins_deadcam_modes") (value "1")
+L 08/08/2026 - 14:13:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_theater_override") (value "armory_pvp_default")
+L 08/08/2026 - 14:28:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_radial_vo_enemies") (value "1500")
+L 08/08/2026 - 14:28:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_radial_viewcone_enemy") (value "15")
+L 08/08/2026 - 14:28:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "ins_deadcam_modes") (value "1")
+L 08/08/2026 - 14:30:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_theater_override") (value "armory_pvp_default")
+L 08/08/2026 - 14:33:36: -------- Mapchange to congress --------
+L 08/08/2026 - 14:33:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_radial_vo_enemies") (value "1500")
+L 08/08/2026 - 14:33:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_radial_viewcone_enemy") (value "15")
+L 08/08/2026 - 14:33:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "ins_deadcam_modes") (value "1")
+L 08/08/2026 - 14:33:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_radial_vo_enemies") (value "1500")
+L 08/08/2026 - 14:33:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_radial_viewcone_enemy") (value "15")
+L 08/08/2026 - 14:33:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "ins_deadcam_modes") (value "1")
+L 08/08/2026 - 14:33:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_theater_override") (value "armory_pvp_default")
+L 08/08/2026 - 14:34:51: -------- Mapchange to siege --------
+L 08/08/2026 - 14:34:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_radial_vo_enemies") (value "1500")
+L 08/08/2026 - 14:34:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_radial_viewcone_enemy") (value "15")
+L 08/08/2026 - 14:34:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "ins_deadcam_modes") (value "1")
+L 08/08/2026 - 14:34:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_radial_vo_enemies") (value "1500")
+L 08/08/2026 - 14:34:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_radial_viewcone_enemy") (value "15")
+L 08/08/2026 - 14:34:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "ins_deadcam_modes") (value "1")
+L 08/08/2026 - 14:34:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_theater_override") (value "armory_pvp_default")
+L 08/08/2026 - 14:51:18: -------- Mapchange to baghdad_b5 --------
+L 08/08/2026 - 14:51:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_radial_vo_enemies") (value "1500")
+L 08/08/2026 - 14:51:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_radial_viewcone_enemy") (value "15")
+L 08/08/2026 - 14:51:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "ins_deadcam_modes") (value "1")
+L 08/08/2026 - 14:51:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_radial_vo_enemies") (value "1500")
+L 08/08/2026 - 14:51:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_radial_viewcone_enemy") (value "15")
+L 08/08/2026 - 14:51:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "ins_deadcam_modes") (value "1")
+L 08/08/2026 - 14:51:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_theater_override") (value "armory_pvp_default")
+L 08/08/2026 - 14:52:24: -------- Mapchange to verticality --------
+L 08/08/2026 - 14:52:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_radial_vo_enemies") (value "1500")
+L 08/08/2026 - 14:52:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_radial_viewcone_enemy") (value "15")
+L 08/08/2026 - 14:52:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "ins_deadcam_modes") (value "1")
+L 08/08/2026 - 14:52:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_radial_vo_enemies") (value "1500")
+L 08/08/2026 - 14:52:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_radial_viewcone_enemy") (value "15")
+L 08/08/2026 - 14:52:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "ins_deadcam_modes") (value "1")
+L 08/08/2026 - 14:52:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_theater_override") (value "armory_pvp_default")
+L 08/08/2026 - 15:04:31: SourceMod log file session started (file "/home/steam/game/insurgency/addons/sourcemod/logs/L20260808.log") (Version "1.10.0.6462")
+L 08/08/2026 - 15:04:31: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 08/08/2026 - 15:08:55: [SM] Changed map to "congress"
+L 08/08/2026 - 15:15:12: [SM] Changed map to "congress"
+L 08/08/2026 - 15:18:20: [KnifeKillMessages.smx] [Knife Notification] - Loaded
+L 08/08/2026 - 15:20:16: [SM] Changed map to "baghdad_b5"
+L 08/08/2026 - 15:20:37: [basecommands.smx] "[FfF]G4RY BoURB!3R<3><STEAM_1:0:15147785><>" changed map to "baghdad_b5"
+L 08/08/2026 - 15:20:40: [SM] Changed map to "baghdad_b5"
+L 08/08/2026 - 15:23:59: [SM] Changed map to "baghdad_b5"
+L 08/08/2026 - 15:27:22: -------- Mapchange to baghdad_b5 --------
+L 08/08/2026 - 15:27:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_radial_vo_enemies") (value "1500")
+L 08/08/2026 - 15:27:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_radial_viewcone_enemy") (value "15")
+L 08/08/2026 - 15:27:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "ins_deadcam_modes") (value "1")
+L 08/08/2026 - 15:27:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_radial_vo_enemies") (value "1500")
+L 08/08/2026 - 15:27:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_radial_viewcone_enemy") (value "15")
+L 08/08/2026 - 15:27:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "ins_deadcam_modes") (value "1")
+L 08/08/2026 - 15:27:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_theater_override") (value "armory_pvp_default")
+L 08/08/2026 - 15:45:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_radial_vo_enemies") (value "1500")
+L 08/08/2026 - 15:45:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_radial_viewcone_enemy") (value "15")
+L 08/08/2026 - 15:45:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "ins_deadcam_modes") (value "1")
+L 08/08/2026 - 15:46:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_theater_override") (value "armory_pvp_default")
+L 08/08/2026 - 15:56:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_radial_vo_enemies") (value "1500")
+L 08/08/2026 - 15:56:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_radial_viewcone_enemy") (value "15")
+L 08/08/2026 - 15:56:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "ins_deadcam_modes") (value "1")
+L 08/08/2026 - 15:58:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_supply_token_base") (value "18")
+L 08/08/2026 - 16:01:40: [basecommands.smx] "[FfF]G4RY BoURB!3R<5><STEAM_1:0:15147785><>" changed map to "baghdad_b5"
+L 08/08/2026 - 16:01:43: [SM] Changed map to "baghdad_b5"
+L 08/08/2026 - 16:02:02: -------- Mapchange to baghdad_b5 --------
+L 08/08/2026 - 16:02:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_radial_vo_enemies") (value "1500")
+L 08/08/2026 - 16:02:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_radial_viewcone_enemy") (value "15")
+L 08/08/2026 - 16:02:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "ins_deadcam_modes") (value "1")
+L 08/08/2026 - 16:02:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_radial_vo_enemies") (value "1500")
+L 08/08/2026 - 16:02:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_radial_viewcone_enemy") (value "15")
+L 08/08/2026 - 16:02:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "ins_deadcam_modes") (value "1")
+L 08/08/2026 - 16:02:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_theater_override") (value "armory_pvp_default")
+L 08/08/2026 - 16:06:36: SourceMod log file session started (file "/home/steam/game/insurgency/addons/sourcemod/logs/L20260808.log") (Version "1.10.0.6462")
+L 08/08/2026 - 16:06:36: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 08/08/2026 - 16:22:16: [KnifeKillMessages.smx] [Knife Notification] - Loaded
+L 08/08/2026 - 16:27:55: [basecommands.smx] "[FfF]G4RY BoURB!3R<3><STEAM_1:0:15147785><>" changed map to "baghdad_b5"
+L 08/08/2026 - 16:27:58: [SM] Changed map to "baghdad_b5"
+L 08/08/2026 - 16:28:21: -------- Mapchange to baghdad_b5 --------
+L 08/08/2026 - 16:28:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_radial_vo_enemies") (value "1500")
+L 08/08/2026 - 16:28:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_radial_viewcone_enemy") (value "15")
+L 08/08/2026 - 16:28:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "ins_deadcam_modes") (value "1")
+L 08/08/2026 - 16:28:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_radial_vo_enemies") (value "1500")
+L 08/08/2026 - 16:28:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_radial_viewcone_enemy") (value "15")
+L 08/08/2026 - 16:28:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "ins_deadcam_modes") (value "1")
+L 08/08/2026 - 16:28:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_theater_override") (value "armory_pvp_default")
+L 08/08/2026 - 16:31:08: -------- Mapchange to baghdad_b5 --------
+L 08/08/2026 - 16:31:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_radial_vo_enemies") (value "1500")
+L 08/08/2026 - 16:31:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_radial_viewcone_enemy") (value "15")
+L 08/08/2026 - 16:31:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "ins_deadcam_modes") (value "1")
+L 08/08/2026 - 16:31:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_radial_vo_enemies") (value "1500")
+L 08/08/2026 - 16:31:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_radial_viewcone_enemy") (value "15")
+L 08/08/2026 - 16:31:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "ins_deadcam_modes") (value "1")
+L 08/08/2026 - 16:31:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_theater_override") (value "armory_pvp_default")
+L 08/08/2026 - 16:40:31: -------- Mapchange to baghdad_b5 --------
+L 08/08/2026 - 16:40:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_radial_vo_enemies") (value "1500")
+L 08/08/2026 - 16:40:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_radial_viewcone_enemy") (value "15")
+L 08/08/2026 - 16:40:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "ins_deadcam_modes") (value "1")
+L 08/08/2026 - 16:40:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_radial_vo_enemies") (value "1500")
+L 08/08/2026 - 16:40:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_radial_viewcone_enemy") (value "15")
+L 08/08/2026 - 16:40:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "ins_deadcam_modes") (value "1")
+L 08/08/2026 - 16:40:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_theater_override") (value "armory_pvp_default")
+L 08/08/2026 - 16:44:22: -------- Mapchange to baghdad_b5 --------
+L 08/08/2026 - 16:44:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_radial_vo_enemies") (value "1500")
+L 08/08/2026 - 16:44:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_radial_viewcone_enemy") (value "15")
+L 08/08/2026 - 16:44:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "ins_deadcam_modes") (value "1")
+L 08/08/2026 - 16:44:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_radial_vo_enemies") (value "1500")
+L 08/08/2026 - 16:44:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_radial_viewcone_enemy") (value "15")
+L 08/08/2026 - 16:44:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "ins_deadcam_modes") (value "1")
+L 08/08/2026 - 16:44:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_theater_override") (value "armory_pvp_default")
+L 08/08/2026 - 16:49:43: -------- Mapchange to baghdad_b5 --------
+L 08/08/2026 - 16:49:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_radial_vo_enemies") (value "1500")
+L 08/08/2026 - 16:49:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_radial_viewcone_enemy") (value "15")
+L 08/08/2026 - 16:49:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "ins_deadcam_modes") (value "1")
+L 08/08/2026 - 16:49:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_radial_vo_enemies") (value "1500")
+L 08/08/2026 - 16:49:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_radial_viewcone_enemy") (value "15")
+L 08/08/2026 - 16:49:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "ins_deadcam_modes") (value "1")
+L 08/08/2026 - 16:49:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_theater_override") (value "armory_pvp_default")

@@ -1,0 +1,4 @@
+L 05/19/2025 - 14:10:23: SourceMod log file session started (file "/home/bourbier/ins/serverfiles/insurgency/addons/sourcemod/logs/L20250519.log") (Version "1.10.0.6462")
+L 05/19/2025 - 14:10:23: [KnifeKillMessages.smx] [Knife Notification] - Loaded
+L 05/19/2025 - 17:52:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_theater_override") (value "armory_pvp_default")
+L 05/19/2025 - 17:58:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_theater_override") (value "armory_pvp_default")
