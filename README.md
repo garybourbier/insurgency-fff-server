@@ -33,7 +33,12 @@ docker-compose up -d
 ```
 
 ## Config
-Copier `cfg/server.cfg` et renseigner `rcon_password`.
+
+```bash
+cp cfg/server_local.cfg.example cfg/server_local.cfg
+```
+
+Éditer `cfg/server_local.cfg` avec ton `hostname`, `rcon_password` et `sv_contact`. Ce fichier est dans le `.gitignore` — il ne sera jamais commité.
 
 ---
 
