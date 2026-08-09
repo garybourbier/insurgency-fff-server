@@ -3,16 +3,14 @@
 Serveur Insurgency 2014 dédié — playlist officielle "Combat Soutenu" avec maps et mods workshop.
 
 > Insurgency Custom PvP server with :
-> - 65 new weapons
-> - 25 Custom maps
+> - 221 custom weapons (The Armory PvP + Dismemberment mod)
+> - 52 custom maps (+ 14 official NWI maps)
 > - Voice mod
 > - Dismemberment mod
 > - Fire Strike
-> - and more fun
+> - and more
 
 Collection Steam Workshop : https://steamcommunity.com/sharedfiles/filedetails/?id=649274722
-
-Supporter le serveur : https://utip.io/garybourbier
 
 ## Stack
 - Docker + Steam AppID 222880
